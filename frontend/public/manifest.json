@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "hypersocial",
+  "version": "0.1.0",
+  "description": "X calls on Hyperliquid candles: see who called long or short, where, and how it is going.",
+  "icons": { "16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png" },
+  "action": { "default_title": "hypersocial", "default_popup": "popup.html", "default_icon": { "16": "icons/16.png", "48": "icons/48.png" } },
+  "background": { "service_worker": "background.js" },
+  "permissions": ["storage"],
+  "host_permissions": ["https://api.hyperliquid.xyz/*", "http://localhost/*", "http://127.0.0.1/*"],
+  "optional_host_permissions": ["https://*/*", "http://*/*"],
+  "content_scripts": [
+    { "matches": ["https://app.hyperliquid.xyz/trade*"], "js": ["main-world.js"], "run_at": "document_start", "world": "MAIN" },
+    { "matches": ["https://app.hyperliquid.xyz/trade*"], "js": ["content.js"], "run_at": "document_idle" }
+  ]
+}

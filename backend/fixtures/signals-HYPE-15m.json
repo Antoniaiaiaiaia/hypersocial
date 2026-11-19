@@ -1,0 +1,115 @@
+{
+  "coin": "HYPE",
+  "window": "15m",
+  "updatedAt": 1767268800000,
+  "coverage": "15m",
+  "summary": {
+    "long": 3,
+    "short": 2,
+    "view": 1,
+    "pctLong": 60
+  },
+  "calls": [
+    {
+      "id": "demo-15m-001",
+      "url": "https://example.com/hypersocial/demo/demo-15m-001",
+      "ts": 1767268786486,
+      "author": {
+        "name": "Demo Trader 34",
+        "handle": "hs_demo_34",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 4288
+      },
+      "text": "$HYPE support broke. Expecting lower lows, short 73.08.",
+      "side": "short",
+      "media": [
+        "https://placehold.co/600x340/png?text=chart"
+      ],
+      "entryPrice": 73.101,
+      "pnlPct": 0.03
+    },
+    {
+      "id": "demo-15m-003",
+      "url": "https://example.com/hypersocial/demo/demo-15m-003",
+      "ts": 1767268780629,
+      "author": {
+        "name": "Demo Trader 20",
+        "handle": "hs_demo_20",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1287
+      },
+      "text": "$HYPE volume is picking up today.",
+      "side": "view",
+      "entryPrice": 73.101,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-15m-005",
+      "url": "https://example.com/hypersocial/demo/demo-15m-005",
+      "ts": 1767268598196,
+      "author": {
+        "name": "Demo Trader 86",
+        "handle": "hs_demo_86",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 193210
+      },
+      "text": "$HYPE bottom is in. First target 78.86.",
+      "side": "long",
+      "entryPrice": 72.979,
+      "pnlPct": 0.14
+    },
+    {
+      "id": "demo-15m-002",
+      "url": "https://example.com/hypersocial/demo/demo-15m-002",
+      "ts": 1767268414136,
+      "author": {
+        "name": "Demo Trader 55",
+        "handle": "hs_demo_55",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 2257
+      },
+      "text": "$HYPE breakout above 72.97 confirmed, adding here.",
+      "side": "long",
+      "entryPrice": 72.999,
+      "pnlPct": 0.11
+    },
+    {
+      "id": "demo-15m-006",
+      "url": "https://example.com/hypersocial/demo/demo-15m-006",
+      "ts": 1767268227645,
+      "author": {
+        "name": "Demo Trader 28",
+        "handle": "hs_demo_28",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 2366
+      },
+      "text": "Shorted $HYPE at 73.08, stop at 78.93.",
+      "side": "short",
+      "entryPrice": 73.079,
+      "pnlPct": 0
+    },
+    {
+      "id": "demo-15m-004",
+      "url": "https://example.com/hypersocial/demo/demo-15m-004",
+      "ts": 1767267973837,
+      "author": {
+        "name": "Demo Trader 68",
+        "handle": "hs_demo_68",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 195854
+      },
+      "text": "DCA filled on $HYPE at 73.18, holding for 79.03.",
+      "side": "long",
+      "entryPrice": 73.176,
+      "pnlPct": -0.13
+    }
+  ],
+  "byPrice": [
+    {
+      "lo": 70,
+      "hi": 75,
+      "longs": 3,
+      "shorts": 2
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "hypersocial-extension",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "hypersocial: X calls on Hyperliquid candles",
+  "scripts": {
+    "build": "tsc --noEmit && node scripts/build.mjs",
+    "typecheck": "tsc --noEmit",
+    "icons": "node scripts/icons.mjs",
+    "shots": "node scripts/shots.mjs"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.287",
+    "playwright": "1.65.1",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.0"
+  }
+}

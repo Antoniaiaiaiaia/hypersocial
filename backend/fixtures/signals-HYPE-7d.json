@@ -1,0 +1,1378 @@
+{
+  "coin": "HYPE",
+  "window": "7d",
+  "updatedAt": 1767268800000,
+  "coverage": "7d",
+  "summary": {
+    "long": 35,
+    "short": 21,
+    "view": 32,
+    "pctLong": 63
+  },
+  "calls": [
+    {
+      "id": "demo-7d-039",
+      "url": "https://example.com/hypersocial/demo/demo-7d-039",
+      "ts": 1767256863215,
+      "author": {
+        "name": "Demo Trader 59",
+        "handle": "hs_demo_59",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 319919
+      },
+      "text": "Loading $HYPE spot with a patient bid at 74.72.",
+      "side": "long",
+      "entryPrice": 74.75,
+      "pnlPct": -2.23
+    },
+    {
+      "id": "demo-7d-071",
+      "url": "https://example.com/hypersocial/demo/demo-7d-071",
+      "ts": 1767251828578,
+      "author": {
+        "name": "Demo Trader 23",
+        "handle": "hs_demo_23",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 5425
+      },
+      "text": "Loading $HYPE spot with a patient bid at 75.84.",
+      "side": "long",
+      "media": [
+        "https://placehold.co/600x340/png?text=chart"
+      ],
+      "entryPrice": 75.925,
+      "pnlPct": -3.75
+    },
+    {
+      "id": "demo-7d-045",
+      "url": "https://example.com/hypersocial/demo/demo-7d-045",
+      "ts": 1767243185796,
+      "author": {
+        "name": "Demo Trader 23",
+        "handle": "hs_demo_23",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 5425
+      },
+      "text": "Loading $HYPE spot with a patient bid at 76.64.",
+      "side": "long",
+      "entryPrice": 76.705,
+      "pnlPct": -4.72
+    },
+    {
+      "id": "demo-7d-078",
+      "url": "https://example.com/hypersocial/demo/demo-7d-078",
+      "ts": 1767241291534,
+      "author": {
+        "name": "Demo Trader 66",
+        "handle": "hs_demo_66",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 47221
+      },
+      "text": "Bought more $HYPE on this dip, 77.06 looks like solid support.",
+      "side": "long",
+      "media": [
+        "https://placehold.co/600x340/png?text=chart"
+      ],
+      "entryPrice": 77.059,
+      "pnlPct": -5.16
+    },
+    {
+      "id": "demo-7d-021",
+      "url": "https://example.com/hypersocial/demo/demo-7d-021",
+      "ts": 1767238539021,
+      "author": {
+        "name": "Demo Trader 03",
+        "handle": "hs_demo_03",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 176956
+      },
+      "text": "Longed $HYPE at 77.07. Invalidation below 72.44.",
+      "side": "long",
+      "entryPrice": 77.112,
+      "pnlPct": -5.23
+    },
+    {
+      "id": "demo-7d-085",
+      "url": "https://example.com/hypersocial/demo/demo-7d-085",
+      "ts": 1767233394991,
+      "author": {
+        "name": "Demo Trader 03",
+        "handle": "hs_demo_03",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 176956
+      },
+      "text": "DCA filled on $HYPE at 77.71, holding for 83.92.",
+      "side": "long",
+      "media": [
+        "https://placehold.co/600x340/png?text=chart"
+      ],
+      "entryPrice": 77.798,
+      "pnlPct": -6.06
+    },
+    {
+      "id": "demo-7d-069",
+      "url": "https://example.com/hypersocial/demo/demo-7d-069",
+      "ts": 1767231299911,
+      "author": {
+        "name": "Demo Trader 55",
+        "handle": "hs_demo_55",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 2257
+      },
+      "text": "Watching $HYPE around 77.33, no position yet.",
+      "side": "view",
+      "entryPrice": 77.316,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-029",
+      "url": "https://example.com/hypersocial/demo/demo-7d-029",
+      "ts": 1767226343374,
+      "author": {
+        "name": "Demo Trader 20",
+        "handle": "hs_demo_20",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1287
+      },
+      "text": "Interesting chart on $HYPE, 77.49 is the level to watch.",
+      "side": "view",
+      "entryPrice": 77.487,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-012",
+      "url": "https://example.com/hypersocial/demo/demo-7d-012",
+      "ts": 1767224848677,
+      "author": {
+        "name": "Demo Trader 59",
+        "handle": "hs_demo_59",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 319919
+      },
+      "text": "Longed $HYPE at 77.34. Invalidation below 72.70.",
+      "side": "long",
+      "entryPrice": 77.457,
+      "pnlPct": -5.65
+    },
+    {
+      "id": "demo-7d-064",
+      "url": "https://example.com/hypersocial/demo/demo-7d-064",
+      "ts": 1767222518935,
+      "author": {
+        "name": "Demo Trader 41",
+        "handle": "hs_demo_41",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1092
+      },
+      "text": "Interesting chart on $HYPE, 77.42 is the level to watch.",
+      "side": "view",
+      "entryPrice": 77.517,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-004",
+      "url": "https://example.com/hypersocial/demo/demo-7d-004",
+      "ts": 1767219752985,
+      "author": {
+        "name": "Demo Trader 13",
+        "handle": "hs_demo_13",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 19222
+      },
+      "text": "$HYPE ecosystem keeps shipping. Noted.",
+      "side": "view",
+      "entryPrice": 77.786,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-089",
+      "url": "https://example.com/hypersocial/demo/demo-7d-089",
+      "ts": 1767217718986,
+      "author": {
+        "name": "Demo Trader 50",
+        "handle": "hs_demo_50",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 25805
+      },
+      "text": "$HYPE ecosystem keeps shipping. Noted.",
+      "side": "view",
+      "entryPrice": 77.858,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-076",
+      "url": "https://example.com/hypersocial/demo/demo-7d-076",
+      "ts": 1767201819420,
+      "author": {
+        "name": "Demo Trader 80",
+        "handle": "hs_demo_80",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 31790
+      },
+      "text": "Loading $HYPE spot with a patient bid at 77.25.",
+      "side": "long",
+      "entryPrice": 77.364,
+      "pnlPct": -5.54
+    },
+    {
+      "id": "demo-7d-023",
+      "url": "https://example.com/hypersocial/demo/demo-7d-023",
+      "ts": 1767198613164,
+      "author": {
+        "name": "Demo Trader 58",
+        "handle": "hs_demo_58",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 15116
+      },
+      "text": "$HYPE support broke. Expecting lower lows, short 76.89.",
+      "side": "short",
+      "entryPrice": 76.891,
+      "pnlPct": 4.96
+    },
+    {
+      "id": "demo-7d-010",
+      "url": "https://example.com/hypersocial/demo/demo-7d-010",
+      "ts": 1767192877250,
+      "author": {
+        "name": "Demo Trader 11",
+        "handle": "hs_demo_11",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 96810
+      },
+      "text": "Shorted $HYPE at 76.99, stop at 83.15.",
+      "side": "short",
+      "entryPrice": 76.923,
+      "pnlPct": 4.99
+    },
+    {
+      "id": "demo-7d-065",
+      "url": "https://example.com/hypersocial/demo/demo-7d-065",
+      "ts": 1767178247047,
+      "author": {
+        "name": "Demo Trader 23",
+        "handle": "hs_demo_23",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 5425
+      },
+      "text": "Interesting chart on $HYPE, 75.43 is the level to watch.",
+      "side": "view",
+      "entryPrice": 75.414,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-084",
+      "url": "https://example.com/hypersocial/demo/demo-7d-084",
+      "ts": 1767176872187,
+      "author": {
+        "name": "Demo Trader 29",
+        "handle": "hs_demo_29",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 26253
+      },
+      "text": "Loading $HYPE spot with a patient bid at 74.92.",
+      "side": "long",
+      "entryPrice": 74.987,
+      "pnlPct": -2.54
+    },
+    {
+      "id": "demo-7d-028",
+      "url": "https://example.com/hypersocial/demo/demo-7d-028",
+      "ts": 1767172944817,
+      "author": {
+        "name": "Demo Trader 44",
+        "handle": "hs_demo_44",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 82095
+      },
+      "text": "Interesting chart on $HYPE, 74.52 is the level to watch.",
+      "side": "view",
+      "entryPrice": 74.449,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-077",
+      "url": "https://example.com/hypersocial/demo/demo-7d-077",
+      "ts": 1767170729554,
+      "author": {
+        "name": "Demo Trader 09",
+        "handle": "hs_demo_09",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 2682
+      },
+      "text": "Longed $HYPE at 74.85. Invalidation below 70.36.",
+      "side": "long",
+      "entryPrice": 74.848,
+      "pnlPct": -2.36
+    },
+    {
+      "id": "demo-7d-063",
+      "url": "https://example.com/hypersocial/demo/demo-7d-063",
+      "ts": 1767158054022,
+      "author": {
+        "name": "Demo Trader 12",
+        "handle": "hs_demo_12",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1078
+      },
+      "text": "Interesting chart on $HYPE, 74.72 is the level to watch.",
+      "side": "view",
+      "entryPrice": 74.607,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-081",
+      "url": "https://example.com/hypersocial/demo/demo-7d-081",
+      "ts": 1767156579954,
+      "author": {
+        "name": "Demo Trader 39",
+        "handle": "hs_demo_39",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 8873
+      },
+      "text": "Bought more $HYPE on this dip, 74.54 looks like solid support.",
+      "side": "long",
+      "entryPrice": 74.521,
+      "pnlPct": -1.93
+    },
+    {
+      "id": "demo-7d-037",
+      "url": "https://example.com/hypersocial/demo/demo-7d-037",
+      "ts": 1767156305506,
+      "author": {
+        "name": "Demo Trader 80",
+        "handle": "hs_demo_80",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 31790
+      },
+      "text": "$HYPE breakout above 74.52 confirmed, adding here.",
+      "side": "long",
+      "entryPrice": 74.521,
+      "pnlPct": -1.93
+    },
+    {
+      "id": "demo-7d-061",
+      "url": "https://example.com/hypersocial/demo/demo-7d-061",
+      "ts": 1767155961662,
+      "author": {
+        "name": "Demo Trader 72",
+        "handle": "hs_demo_72",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1356
+      },
+      "text": "$HYPE breakout above 74.45 confirmed, adding here.",
+      "side": "long",
+      "entryPrice": 74.434,
+      "pnlPct": -1.82
+    },
+    {
+      "id": "demo-7d-087",
+      "url": "https://example.com/hypersocial/demo/demo-7d-087",
+      "ts": 1767154621988,
+      "author": {
+        "name": "Demo Trader 76",
+        "handle": "hs_demo_76",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 358867
+      },
+      "text": "Fading this $HYPE bounce, short from 74.53.",
+      "side": "short",
+      "entryPrice": 74.48,
+      "pnlPct": 1.88
+    },
+    {
+      "id": "demo-7d-047",
+      "url": "https://example.com/hypersocial/demo/demo-7d-047",
+      "ts": 1767144772006,
+      "author": {
+        "name": "Demo Trader 87",
+        "handle": "hs_demo_87",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 11796
+      },
+      "text": "What is everyone's plan for $HYPE this week?",
+      "side": "view",
+      "entryPrice": 74.193,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-079",
+      "url": "https://example.com/hypersocial/demo/demo-7d-079",
+      "ts": 1767144743787,
+      "author": {
+        "name": "Demo Trader 03",
+        "handle": "hs_demo_03",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 176956
+      },
+      "text": "Shorted $HYPE at 74.12, stop at 80.05.",
+      "side": "short",
+      "entryPrice": 74.193,
+      "pnlPct": 1.5
+    },
+    {
+      "id": "demo-7d-031",
+      "url": "https://example.com/hypersocial/demo/demo-7d-031",
+      "ts": 1767142031684,
+      "author": {
+        "name": "Demo Trader 42",
+        "handle": "hs_demo_42",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 39202
+      },
+      "text": "$HYPE breakout above 74.03 confirmed, adding here.",
+      "side": "long",
+      "entryPrice": 74.004,
+      "pnlPct": -1.25
+    },
+    {
+      "id": "demo-7d-055",
+      "url": "https://example.com/hypersocial/demo/demo-7d-055",
+      "ts": 1767141655663,
+      "author": {
+        "name": "Demo Trader 31",
+        "handle": "hs_demo_31",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 26252
+      },
+      "text": "Shorted $HYPE at 74.08, stop at 80.00.",
+      "side": "short",
+      "entryPrice": 74.072,
+      "pnlPct": 1.34
+    },
+    {
+      "id": "demo-7d-067",
+      "url": "https://example.com/hypersocial/demo/demo-7d-067",
+      "ts": 1767128565141,
+      "author": {
+        "name": "Demo Trader 49",
+        "handle": "hs_demo_49",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 22627
+      },
+      "text": "Watching $HYPE around 74.18, no position yet.",
+      "side": "view",
+      "entryPrice": 74.204,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-070",
+      "url": "https://example.com/hypersocial/demo/demo-7d-070",
+      "ts": 1767109605330,
+      "author": {
+        "name": "Demo Trader 52",
+        "handle": "hs_demo_52",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 27513
+      },
+      "text": "Longed $HYPE at 75.78. Invalidation below 71.24.",
+      "side": "long",
+      "entryPrice": 75.705,
+      "pnlPct": -3.47
+    },
+    {
+      "id": "demo-7d-043",
+      "url": "https://example.com/hypersocial/demo/demo-7d-043",
+      "ts": 1767105923530,
+      "author": {
+        "name": "Demo Trader 35",
+        "handle": "hs_demo_35",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 11149
+      },
+      "text": "$HYPE breakout above 75.83 confirmed, adding here.",
+      "side": "long",
+      "media": [
+        "https://placehold.co/600x340/png?text=chart"
+      ],
+      "entryPrice": 75.832,
+      "pnlPct": -3.63
+    },
+    {
+      "id": "demo-7d-080",
+      "url": "https://example.com/hypersocial/demo/demo-7d-080",
+      "ts": 1767104258042,
+      "author": {
+        "name": "Demo Trader 50",
+        "handle": "hs_demo_50",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 25805
+      },
+      "text": "$HYPE support broke. Expecting lower lows, short 76.33.",
+      "side": "short",
+      "entryPrice": 76.319,
+      "pnlPct": 4.24
+    },
+    {
+      "id": "demo-7d-068",
+      "url": "https://example.com/hypersocial/demo/demo-7d-068",
+      "ts": 1767102185469,
+      "author": {
+        "name": "Demo Trader 49",
+        "handle": "hs_demo_49",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 22627
+      },
+      "text": "Interesting chart on $HYPE, 76.39 is the level to watch.",
+      "side": "view",
+      "entryPrice": 76.321,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-082",
+      "url": "https://example.com/hypersocial/demo/demo-7d-082",
+      "ts": 1767092486186,
+      "author": {
+        "name": "Demo Trader 06",
+        "handle": "hs_demo_06",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1131
+      },
+      "text": "$HYPE volume is picking up today.",
+      "side": "view",
+      "entryPrice": 77.526,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-046",
+      "url": "https://example.com/hypersocial/demo/demo-7d-046",
+      "ts": 1767088453328,
+      "author": {
+        "name": "Demo Trader 32",
+        "handle": "hs_demo_32",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 69608
+      },
+      "text": "$HYPE ecosystem keeps shipping. Noted.",
+      "side": "view",
+      "entryPrice": 77.904,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-066",
+      "url": "https://example.com/hypersocial/demo/demo-7d-066",
+      "ts": 1767081943510,
+      "author": {
+        "name": "Demo Trader 75",
+        "handle": "hs_demo_75",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 34117
+      },
+      "text": "DCA filled on $HYPE at 78.38, holding for 84.65.",
+      "side": "long",
+      "entryPrice": 78.398,
+      "pnlPct": -6.78
+    },
+    {
+      "id": "demo-7d-027",
+      "url": "https://example.com/hypersocial/demo/demo-7d-027",
+      "ts": 1767077692932,
+      "author": {
+        "name": "Demo Trader 67",
+        "handle": "hs_demo_67",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 55685
+      },
+      "text": "$HYPE ecosystem keeps shipping. Noted.",
+      "side": "view",
+      "entryPrice": 78.051,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-035",
+      "url": "https://example.com/hypersocial/demo/demo-7d-035",
+      "ts": 1767069768012,
+      "author": {
+        "name": "Demo Trader 31",
+        "handle": "hs_demo_31",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 26252
+      },
+      "text": "What is everyone's plan for $HYPE this week?",
+      "side": "view",
+      "entryPrice": 78.397,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-056",
+      "url": "https://example.com/hypersocial/demo/demo-7d-056",
+      "ts": 1767063055070,
+      "author": {
+        "name": "Demo Trader 89",
+        "handle": "hs_demo_89",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1299
+      },
+      "text": "DCA filled on $HYPE at 77.84, holding for 84.07.",
+      "side": "long",
+      "entryPrice": 77.877,
+      "pnlPct": -6.16
+    },
+    {
+      "id": "demo-7d-038",
+      "url": "https://example.com/hypersocial/demo/demo-7d-038",
+      "ts": 1767059091681,
+      "author": {
+        "name": "Demo Trader 86",
+        "handle": "hs_demo_86",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 193210
+      },
+      "text": "Fading this $HYPE bounce, short from 78.54.",
+      "side": "short",
+      "entryPrice": 78.474,
+      "pnlPct": 6.87
+    },
+    {
+      "id": "demo-7d-007",
+      "url": "https://example.com/hypersocial/demo/demo-7d-007",
+      "ts": 1767057313079,
+      "author": {
+        "name": "Demo Trader 25",
+        "handle": "hs_demo_25",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 90474
+      },
+      "text": "Fading this $HYPE bounce, short from 78.67.",
+      "side": "short",
+      "entryPrice": 78.673,
+      "pnlPct": 7.11
+    },
+    {
+      "id": "demo-7d-054",
+      "url": "https://example.com/hypersocial/demo/demo-7d-054",
+      "ts": 1767051582731,
+      "author": {
+        "name": "Demo Trader 74",
+        "handle": "hs_demo_74",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 366732
+      },
+      "text": "$HYPE ecosystem keeps shipping. Noted.",
+      "side": "view",
+      "entryPrice": 77.883,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-008",
+      "url": "https://example.com/hypersocial/demo/demo-7d-008",
+      "ts": 1767046610099,
+      "author": {
+        "name": "Demo Trader 49",
+        "handle": "hs_demo_49",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 22627
+      },
+      "text": "$HYPE volume is picking up today.",
+      "side": "view",
+      "entryPrice": 77.676,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-090",
+      "url": "https://example.com/hypersocial/demo/demo-7d-090",
+      "ts": 1767036960451,
+      "author": {
+        "name": "Demo Trader 46",
+        "handle": "hs_demo_46",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 17129
+      },
+      "text": "Shorted $HYPE at 77.23, stop at 83.41.",
+      "side": "short",
+      "entryPrice": 77.259,
+      "pnlPct": 5.41
+    },
+    {
+      "id": "demo-7d-025",
+      "url": "https://example.com/hypersocial/demo/demo-7d-025",
+      "ts": 1767029697162,
+      "author": {
+        "name": "Demo Trader 33",
+        "handle": "hs_demo_33",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 9031
+      },
+      "text": "Loading $HYPE spot with a patient bid at 76.52.",
+      "side": "long",
+      "entryPrice": 76.637,
+      "pnlPct": -4.64
+    },
+    {
+      "id": "demo-7d-075",
+      "url": "https://example.com/hypersocial/demo/demo-7d-075",
+      "ts": 1766985986881,
+      "author": {
+        "name": "Demo Trader 68",
+        "handle": "hs_demo_68",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 195854
+      },
+      "text": "Watching $HYPE around 71.20, no position yet.",
+      "side": "view",
+      "entryPrice": 71.255,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-026",
+      "url": "https://example.com/hypersocial/demo/demo-7d-026",
+      "ts": 1766977895061,
+      "author": {
+        "name": "Demo Trader 59",
+        "handle": "hs_demo_59",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 319919
+      },
+      "text": "$HYPE breakout above 70.49 confirmed, adding here.",
+      "side": "long",
+      "entryPrice": 70.437,
+      "pnlPct": 3.75
+    },
+    {
+      "id": "demo-7d-034",
+      "url": "https://example.com/hypersocial/demo/demo-7d-034",
+      "ts": 1766972470169,
+      "author": {
+        "name": "Demo Trader 78",
+        "handle": "hs_demo_78",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 33280
+      },
+      "text": "Fading this $HYPE bounce, short from 70.37.",
+      "side": "short",
+      "entryPrice": 70.416,
+      "pnlPct": -3.78
+    },
+    {
+      "id": "demo-7d-033",
+      "url": "https://example.com/hypersocial/demo/demo-7d-033",
+      "ts": 1766971754333,
+      "author": {
+        "name": "Demo Trader 43",
+        "handle": "hs_demo_43",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 39191
+      },
+      "text": "$HYPE ecosystem keeps shipping. Noted.",
+      "side": "view",
+      "entryPrice": 70.145,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-040",
+      "url": "https://example.com/hypersocial/demo/demo-7d-040",
+      "ts": 1766950140910,
+      "author": {
+        "name": "Demo Trader 51",
+        "handle": "hs_demo_51",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 34938
+      },
+      "text": "$HYPE chopping between 64.39 and 73.98.",
+      "side": "view",
+      "entryPrice": 68.489,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-024",
+      "url": "https://example.com/hypersocial/demo/demo-7d-024",
+      "ts": 1766930346227,
+      "author": {
+        "name": "Demo Trader 12",
+        "handle": "hs_demo_12",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1078
+      },
+      "text": "Longed $HYPE at 69.64. Invalidation below 65.46.",
+      "side": "long",
+      "entryPrice": 69.713,
+      "pnlPct": 4.83
+    },
+    {
+      "id": "demo-7d-014",
+      "url": "https://example.com/hypersocial/demo/demo-7d-014",
+      "ts": 1766923231114,
+      "author": {
+        "name": "Demo Trader 07",
+        "handle": "hs_demo_07",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 87294
+      },
+      "text": "$HYPE breakout above 70.39 confirmed, adding here.",
+      "side": "long",
+      "entryPrice": 70.366,
+      "pnlPct": 3.86
+    },
+    {
+      "id": "demo-7d-083",
+      "url": "https://example.com/hypersocial/demo/demo-7d-083",
+      "ts": 1766922427804,
+      "author": {
+        "name": "Demo Trader 20",
+        "handle": "hs_demo_20",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1287
+      },
+      "text": "Bearish on $HYPE below 70.58, sold my spot bag.",
+      "side": "short",
+      "entryPrice": 70.55,
+      "pnlPct": -3.59
+    },
+    {
+      "id": "demo-7d-059",
+      "url": "https://example.com/hypersocial/demo/demo-7d-059",
+      "ts": 1766912526137,
+      "author": {
+        "name": "Demo Trader 58",
+        "handle": "hs_demo_58",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 15116
+      },
+      "text": "Loading $HYPE spot with a patient bid at 70.75.",
+      "side": "long",
+      "entryPrice": 70.787,
+      "pnlPct": 3.24
+    },
+    {
+      "id": "demo-7d-009",
+      "url": "https://example.com/hypersocial/demo/demo-7d-009",
+      "ts": 1766903435211,
+      "author": {
+        "name": "Demo Trader 88",
+        "handle": "hs_demo_88",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 20874
+      },
+      "text": "$HYPE chopping between 67.14 and 77.13.",
+      "side": "view",
+      "entryPrice": 71.484,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-086",
+      "url": "https://example.com/hypersocial/demo/demo-7d-086",
+      "ts": 1766899383120,
+      "author": {
+        "name": "Demo Trader 71",
+        "handle": "hs_demo_71",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 2002
+      },
+      "text": "Fading this $HYPE bounce, short from 71.27.",
+      "side": "short",
+      "entryPrice": 71.419,
+      "pnlPct": -2.33
+    },
+    {
+      "id": "demo-7d-041",
+      "url": "https://example.com/hypersocial/demo/demo-7d-041",
+      "ts": 1766894560703,
+      "author": {
+        "name": "Demo Trader 58",
+        "handle": "hs_demo_58",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 15116
+      },
+      "text": "Watching $HYPE around 71.37, no position yet.",
+      "side": "view",
+      "entryPrice": 71.285,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-062",
+      "url": "https://example.com/hypersocial/demo/demo-7d-062",
+      "ts": 1766893122538,
+      "author": {
+        "name": "Demo Trader 04",
+        "handle": "hs_demo_04",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 3979
+      },
+      "text": "Fading this $HYPE bounce, short from 71.42.",
+      "side": "short",
+      "entryPrice": 71.233,
+      "pnlPct": -2.59
+    },
+    {
+      "id": "demo-7d-051",
+      "url": "https://example.com/hypersocial/demo/demo-7d-051",
+      "ts": 1766883257685,
+      "author": {
+        "name": "Demo Trader 37",
+        "handle": "hs_demo_37",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 280739
+      },
+      "text": "$HYPE ecosystem keeps shipping. Noted.",
+      "side": "view",
+      "entryPrice": 71.084,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-017",
+      "url": "https://example.com/hypersocial/demo/demo-7d-017",
+      "ts": 1766883106773,
+      "author": {
+        "name": "Demo Trader 05",
+        "handle": "hs_demo_05",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 3388
+      },
+      "text": "What is everyone's plan for $HYPE this week?",
+      "side": "view",
+      "entryPrice": 71.084,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-003",
+      "url": "https://example.com/hypersocial/demo/demo-7d-003",
+      "ts": 1766871100025,
+      "author": {
+        "name": "Demo Trader 57",
+        "handle": "hs_demo_57",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 32619
+      },
+      "text": "$HYPE support broke. Expecting lower lows, short 70.29.",
+      "side": "short",
+      "entryPrice": 70.334,
+      "pnlPct": -3.91
+    },
+    {
+      "id": "demo-7d-053",
+      "url": "https://example.com/hypersocial/demo/demo-7d-053",
+      "ts": 1766870698754,
+      "author": {
+        "name": "Demo Trader 37",
+        "handle": "hs_demo_37",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 280739
+      },
+      "text": "$HYPE breakout above 70.35 confirmed, adding here.",
+      "side": "long",
+      "entryPrice": 70.33,
+      "pnlPct": 3.91
+    },
+    {
+      "id": "demo-7d-011",
+      "url": "https://example.com/hypersocial/demo/demo-7d-011",
+      "ts": 1766864069047,
+      "author": {
+        "name": "Demo Trader 37",
+        "handle": "hs_demo_37",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 280739
+      },
+      "text": "$HYPE bottom is in. First target 74.61.",
+      "side": "long",
+      "entryPrice": 69.01,
+      "pnlPct": 5.9
+    },
+    {
+      "id": "demo-7d-015",
+      "url": "https://example.com/hypersocial/demo/demo-7d-015",
+      "ts": 1766863599909,
+      "author": {
+        "name": "Demo Trader 09",
+        "handle": "hs_demo_09",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 2682
+      },
+      "text": "$HYPE support broke. Expecting lower lows, short 68.94.",
+      "side": "short",
+      "media": [
+        "https://placehold.co/600x340/png?text=chart"
+      ],
+      "entryPrice": 68.932,
+      "pnlPct": -6.02
+    },
+    {
+      "id": "demo-7d-030",
+      "url": "https://example.com/hypersocial/demo/demo-7d-030",
+      "ts": 1766859581038,
+      "author": {
+        "name": "Demo Trader 04",
+        "handle": "hs_demo_04",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 3979
+      },
+      "text": "$HYPE looks heavy here, opened a short at 68.64.",
+      "side": "short",
+      "entryPrice": 68.629,
+      "pnlPct": -6.49
+    },
+    {
+      "id": "demo-7d-005",
+      "url": "https://example.com/hypersocial/demo/demo-7d-005",
+      "ts": 1766836679287,
+      "author": {
+        "name": "Demo Trader 89",
+        "handle": "hs_demo_89",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1299
+      },
+      "text": "Bought more $HYPE on this dip, 65.80 looks like solid support.",
+      "side": "long",
+      "entryPrice": 65.736,
+      "pnlPct": 11.17
+    },
+    {
+      "id": "demo-7d-042",
+      "url": "https://example.com/hypersocial/demo/demo-7d-042",
+      "ts": 1766820272628,
+      "author": {
+        "name": "Demo Trader 46",
+        "handle": "hs_demo_46",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 17129
+      },
+      "text": "Loading $HYPE spot with a patient bid at 62.79.",
+      "side": "long",
+      "entryPrice": 62.649,
+      "pnlPct": 16.65
+    },
+    {
+      "id": "demo-7d-032",
+      "url": "https://example.com/hypersocial/demo/demo-7d-032",
+      "ts": 1766804540771,
+      "author": {
+        "name": "Demo Trader 80",
+        "handle": "hs_demo_80",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 31790
+      },
+      "text": "$HYPE looks heavy here, opened a short at 61.43.",
+      "side": "short",
+      "entryPrice": 61.534,
+      "pnlPct": -18.77
+    },
+    {
+      "id": "demo-7d-006",
+      "url": "https://example.com/hypersocial/demo/demo-7d-006",
+      "ts": 1766804009382,
+      "author": {
+        "name": "Demo Trader 72",
+        "handle": "hs_demo_72",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1356
+      },
+      "text": "$HYPE volume is picking up today.",
+      "side": "view",
+      "entryPrice": 61.54,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-072",
+      "url": "https://example.com/hypersocial/demo/demo-7d-072",
+      "ts": 1766800334799,
+      "author": {
+        "name": "Demo Trader 47",
+        "handle": "hs_demo_47",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1109
+      },
+      "text": "$HYPE breakout above 61.09 confirmed, adding here.",
+      "side": "long",
+      "entryPrice": 61.095,
+      "pnlPct": 19.62
+    },
+    {
+      "id": "demo-7d-016",
+      "url": "https://example.com/hypersocial/demo/demo-7d-016",
+      "ts": 1766798412587,
+      "author": {
+        "name": "Demo Trader 29",
+        "handle": "hs_demo_29",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 26253
+      },
+      "text": "$HYPE looks heavy here, opened a short at 60.84.",
+      "side": "short",
+      "entryPrice": 60.837,
+      "pnlPct": -20.13
+    },
+    {
+      "id": "demo-7d-058",
+      "url": "https://example.com/hypersocial/demo/demo-7d-058",
+      "ts": 1766797736356,
+      "author": {
+        "name": "Demo Trader 56",
+        "handle": "hs_demo_56",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 277254
+      },
+      "text": "$HYPE ecosystem keeps shipping. Noted.",
+      "side": "view",
+      "entryPrice": 60.76,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-018",
+      "url": "https://example.com/hypersocial/demo/demo-7d-018",
+      "ts": 1766788512917,
+      "author": {
+        "name": "Demo Trader 05",
+        "handle": "hs_demo_05",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 3388
+      },
+      "text": "Fading this $HYPE bounce, short from 60.86.",
+      "side": "short",
+      "entryPrice": 60.857,
+      "pnlPct": -20.09
+    },
+    {
+      "id": "demo-7d-088",
+      "url": "https://example.com/hypersocial/demo/demo-7d-088",
+      "ts": 1766787164250,
+      "author": {
+        "name": "Demo Trader 13",
+        "handle": "hs_demo_13",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 19222
+      },
+      "text": "Loading $HYPE spot with a patient bid at 60.70.",
+      "side": "long",
+      "entryPrice": 60.561,
+      "pnlPct": 20.67
+    },
+    {
+      "id": "demo-7d-048",
+      "url": "https://example.com/hypersocial/demo/demo-7d-048",
+      "ts": 1766777655067,
+      "author": {
+        "name": "Demo Trader 28",
+        "handle": "hs_demo_28",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 2366
+      },
+      "text": "Interesting chart on $HYPE, 60.56 is the level to watch.",
+      "side": "view",
+      "entryPrice": 60.518,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-074",
+      "url": "https://example.com/hypersocial/demo/demo-7d-074",
+      "ts": 1766772764959,
+      "author": {
+        "name": "Demo Trader 33",
+        "handle": "hs_demo_33",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 9031
+      },
+      "text": "Bought more $HYPE on this dip, 61.01 looks like solid support.",
+      "side": "long",
+      "entryPrice": 60.93,
+      "pnlPct": 19.94
+    },
+    {
+      "id": "demo-7d-019",
+      "url": "https://example.com/hypersocial/demo/demo-7d-019",
+      "ts": 1766765537778,
+      "author": {
+        "name": "Demo Trader 30",
+        "handle": "hs_demo_30",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 15077
+      },
+      "text": "Bought more $HYPE on this dip, 61.56 looks like solid support.",
+      "side": "long",
+      "entryPrice": 61.53,
+      "pnlPct": 18.77
+    },
+    {
+      "id": "demo-7d-022",
+      "url": "https://example.com/hypersocial/demo/demo-7d-022",
+      "ts": 1766752641774,
+      "author": {
+        "name": "Demo Trader 65",
+        "handle": "hs_demo_65",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 18211
+      },
+      "text": "Longed $HYPE at 62.95. Invalidation below 59.17.",
+      "side": "long",
+      "media": [
+        "https://placehold.co/600x340/png?text=chart"
+      ],
+      "entryPrice": 62.917,
+      "pnlPct": 16.15
+    },
+    {
+      "id": "demo-7d-044",
+      "url": "https://example.com/hypersocial/demo/demo-7d-044",
+      "ts": 1766744968303,
+      "author": {
+        "name": "Demo Trader 35",
+        "handle": "hs_demo_35",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 11149
+      },
+      "text": "Longed $HYPE at 63.76. Invalidation below 59.93.",
+      "side": "long",
+      "entryPrice": 63.675,
+      "pnlPct": 14.77
+    },
+    {
+      "id": "demo-7d-002",
+      "url": "https://example.com/hypersocial/demo/demo-7d-002",
+      "ts": 1766727587973,
+      "author": {
+        "name": "Demo Trader 44",
+        "handle": "hs_demo_44",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 82095
+      },
+      "text": "$HYPE breakout above 65.21 confirmed, adding here.",
+      "side": "long",
+      "entryPrice": 65.32,
+      "pnlPct": 11.88
+    },
+    {
+      "id": "demo-7d-073",
+      "url": "https://example.com/hypersocial/demo/demo-7d-073",
+      "ts": 1766722696104,
+      "author": {
+        "name": "Demo Trader 09",
+        "handle": "hs_demo_09",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 2682
+      },
+      "text": "$HYPE volume is picking up today.",
+      "side": "view",
+      "entryPrice": 65.533,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-013",
+      "url": "https://example.com/hypersocial/demo/demo-7d-013",
+      "ts": 1766716733361,
+      "author": {
+        "name": "Demo Trader 53",
+        "handle": "hs_demo_53",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1044
+      },
+      "text": "$HYPE chopping between 61.82 and 71.03.",
+      "side": "view",
+      "entryPrice": 65.752,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-020",
+      "url": "https://example.com/hypersocial/demo/demo-7d-020",
+      "ts": 1766707624908,
+      "author": {
+        "name": "Demo Trader 04",
+        "handle": "hs_demo_04",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 3979
+      },
+      "text": "Shorted $HYPE at 65.50, stop at 70.74.",
+      "side": "short",
+      "entryPrice": 65.437,
+      "pnlPct": -11.68
+    },
+    {
+      "id": "demo-7d-001",
+      "url": "https://example.com/hypersocial/demo/demo-7d-001",
+      "ts": 1766705833805,
+      "author": {
+        "name": "Demo Trader 21",
+        "handle": "hs_demo_21",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 27452
+      },
+      "text": "$HYPE chopping between 61.90 and 71.12.",
+      "side": "view",
+      "entryPrice": 65.824,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-060",
+      "url": "https://example.com/hypersocial/demo/demo-7d-060",
+      "ts": 1766700341286,
+      "author": {
+        "name": "Demo Trader 63",
+        "handle": "hs_demo_63",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 79420
+      },
+      "text": "DCA filled on $HYPE at 66.10, holding for 71.39.",
+      "side": "long",
+      "entryPrice": 66.116,
+      "pnlPct": 10.53
+    },
+    {
+      "id": "demo-7d-052",
+      "url": "https://example.com/hypersocial/demo/demo-7d-052",
+      "ts": 1766681551468,
+      "author": {
+        "name": "Demo Trader 36",
+        "handle": "hs_demo_36",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 249984
+      },
+      "text": "$HYPE chopping between 61.54 and 70.71.",
+      "side": "view",
+      "entryPrice": 65.526,
+      "pnlPct": null
+    },
+    {
+      "id": "demo-7d-049",
+      "url": "https://example.com/hypersocial/demo/demo-7d-049",
+      "ts": 1766678891480,
+      "author": {
+        "name": "Demo Trader 89",
+        "handle": "hs_demo_89",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1299
+      },
+      "text": "Bearish on $HYPE below 65.36, sold my spot bag.",
+      "side": "short",
+      "entryPrice": 65.469,
+      "pnlPct": -11.63
+    },
+    {
+      "id": "demo-7d-050",
+      "url": "https://example.com/hypersocial/demo/demo-7d-050",
+      "ts": 1766671584608,
+      "author": {
+        "name": "Demo Trader 79",
+        "handle": "hs_demo_79",
+        "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+        "followers": 1088
+      },
+      "text": "Interesting chart on $HYPE, 64.35 is the level to watch.",
+      "side": "view",
+      "entryPrice": 64.35,
+      "pnlPct": null
+    }
+  ],
+  "byPrice": [
+    {
+      "lo": 60,
+      "hi": 65,
+      "longs": 7,
+      "shorts": 3
+    },
+    {
+      "lo": 65,
+      "hi": 70,
+      "longs": 5,
+      "shorts": 4
+    },
+    {
+      "lo": 70,
+      "hi": 75,
+      "longs": 11,
+      "shorts": 8
+    },
+    {
+      "lo": 75,
+      "hi": 80,
+      "longs": 12,
+      "shorts": 6
+    }
+  ]
+}
